@@ -1,0 +1,13 @@
+{
+    "name": "gaf/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "gaf\\phpmvc\\": "."
+        }
+    },
+    "authors": [{
+        "name": "Gafourrrr",
+        "email": "panolong.gafour@s.msumain.edu.ph"
+    }],
+    "require": {}
+}
